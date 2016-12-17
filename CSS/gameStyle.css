@@ -1,0 +1,70 @@
+#game{
+    position: relative;
+    bottom: 35px;
+    width: 800px;
+    height: 600px;
+    border: 1px solid black;
+    background-image: url('http://img09.deviantart.net/1c2d/i/2014/163/f/3/dark_green_grass_ground_land_dirt_aerial_top_seaml_by_hhh316-d7cyww8.jpg');
+    background-size: 100% 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#hud{
+    height: 50px;
+    padding: 5px;
+    top: 100px;
+}
+#strikes{
+}
+.strike{
+    width: 30px;
+    height: 30px;
+}
+#player{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-image: url("http://orig10.deviantart.net/26fb/f/2013/111/f/e/office_guy__running_animation_16x16_by_madgharr-d624kuf.gif");
+    background-size: 100% 100%;
+}
+.garbage{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-size: 100% 100%;
+}
+.recycleable{
+    background-image: url("../Pictures/water bottle.jpg");
+    height: 40px;
+    width: 20px;
+}
+.trash{
+    background-image: url("../Pictures/bananapeel.jpg");
+    height: 30px;
+    width: 30px;
+}
+.dumpster{
+    position: absolute;
+    width: 60px;
+    height: 90px;
+}
+#trashcan{
+    left: 0px;
+    top: 255px;
+    background-image: url('../Pictures/trashcan.jpg');
+    background-size: 100% 100%;
+}
+#rcylbin{
+    left: 740px;
+    top: 255px;
+    background-image: url('../Pictures/recycle bin.jpg');
+    background-size: 100% 100%;
+}
+#countUp{
+    font-size: 20px;
+    color: red;
+    text-shadow: 1px 1px #540101;
+}
+#music {
+    display: none;
+}

@@ -1,0 +1,48 @@
+ #pltn{
+     background-image: url(http://www.crystalinks.com/pollution.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+ }
+ .jumbotron{
+    font-style: italic;
+    font-family: "The Woodlands", Times, serif;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 1px #203807;
+    background-color: transparent;
+}
+#author{
+ width:50%;
+ margin:0 auto;
+ text-align:center;
+background-color:transparent;
+text-shadow: 1px 1px #203807;
+color: white;
+}
+    #start{
+    background: url('http://toolboxtalk.weebly.com/uploads/2/8/5/4/28540431/8800671_orig.jpg') no-repeat center center;
+    background-size: cover;
+    height: 9rem;
+    width: 9rem;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px #540101;
+}
+
+#intro{
+ font-size: 20px;
+ color: white;
+ font-weight: bold;
+ text-align:center;
+ width:50%;
+ margin:0 auto;
+ padding:10px;
+ background-color:transparent;
+ text-shadow: 2px 1px #002056;
+ border: solid black  3px;
+}
+#music { display: none};
